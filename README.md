@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/khookiatling2012/JavaPipeline/_apis/build/status/khookl00.pipelines-java?branchName=main)](https://dev.azure.com/khookiatling2012/JavaPipeline/_build/latest?definitionId=3&branchName=main)
 
 # Contributing
 
